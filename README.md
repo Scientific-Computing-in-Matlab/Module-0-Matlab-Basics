@@ -1,4 +1,4 @@
-# Module 0 Matlab Basics
+# Module 0 - Matlab Basics
 
 ## Before the First Week 
 This course is aimed at students with some experience working with Matlab. To assess your skill level, or to brush up your skills, you should go through the Matlab Basics module. To help you decide whether you need to review  a specific section, here are the main topics, per section:
