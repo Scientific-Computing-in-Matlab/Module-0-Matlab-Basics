@@ -27,6 +27,7 @@ There are many other videos covering similar material. If you find some of the C
 - [Simple Calculations](http://www.youtube.com/watch?embed=no&v=iu4gba47DJg)
 
 The Mathworks also provides many tutorial videos and demos to help you master all aspects of Matlab:
+
 - [Matlab Academy](https://matlabacademy.mathworks.com/). If you use your @xxx.rutgers.edu email to register you should get free access to the materials we use here)
 - [Matlab OnRamp](https://www.mathworks.com/training-schedule/matlab-onramp.html)
 - Demos that you can start from the Matlab Command prompt (just start Matlab and type: `demo`).
