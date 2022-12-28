@@ -15,23 +15,18 @@ At the end of this module, you will be able to:
 
 There are many video tutorials that set the stage for working with Matlab. With all the video tutorials in this course, you will learn more by doing. So after viewing a tutorial once, open your own Matlab copy and play around with the commands introduced in the video.
 
-Required
-:
-Lesson 1 on Coursera (The Matlab Environment)
+### Required
 
+- Lesson 1 on Coursera [The Matlab Environment](https://www.coursera.org/learn/matlab/home/week/2)
 
-Optional/Additional
-:
-There are many other videos covering similar material. If you find some of the Coursera descriptions confusing, YouTube has additional/alternative sources. If these YouTube videos fail to load, you can also view the videos from the Matlab program by typing ' demo' and then selecting the 'Working in the Development Environment'  and 'Getting Started' video.
-Working in the Development Environment
-Getting Started with MATLAB
+### Optional/Additional
 
-Adam Panagos, from the University of Alabama at Hunstville, has created a whole set of introductory YouTube videos about Matlab.  
-The Matlab Interface
-Simple Calculations
+There are many other videos covering similar material. If you find some of the Coursera descriptions confusing, YouTube has additional/alternative sources. For instance, from Adam Panagos at the  University of Alabama at Hunstville, who has created a whole set of introductory YouTube videos about Matlab.  
 
-Another useful resource is the Matlab Academy: you should register an account there (probably best to use a @xxx.rutgers.edu email; it should give you free access to the materials we use here).
+- [The Matlab Interface](http://www.youtube.com/watch?embed=no&v=ZwysAd50MJI)
+- [Simple Calculations](http://www.youtube.com/watch?embed=no&v=iu4gba47DJg)
 
-The Course Overview (Section 1) in the Matlab Onramp course 
-
-
+The Mathworks also provides many tutorial videos and demos to help you master all aspects of Matlab:
+- [Matlab Academy](https://matlabacademy.mathworks.com/). If you use your @xxx.rutgers.edu email to register you should get free access to the materials we use here)
+- [Matlab OnRamp](https://www.mathworks.com/training-schedule/matlab-onramp.html)
+- Demos that you can start from the Matlab Command prompt (just start Matlab and type: `demo`).
