@@ -35,4 +35,4 @@ YouTube Tutorials:
 
 ## Assignments
 
-On the Matlab Grader site you'll find "Elementary Matlab (functions)"  and 'Scripts, Functions, & Flow Control' assignments to test your skills.
+On the Matlab Grader site you'll find [Elementary Matlab (functions)](https://grader.mathworks.com/courses/95582-scientific-computing-in-matlab-matlab-basics-spring-2023/assignments/258032-elementary-matlab-using-functions)  and [Scripts, Functions, & Flow Control](https://grader.mathworks.com/courses/95582-scientific-computing-in-matlab-matlab-basics-spring-2023/assignments/258037-scripts-functions-amp-flow-control) assignments to test your skills.

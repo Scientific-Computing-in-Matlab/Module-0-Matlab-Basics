@@ -25,4 +25,4 @@ Coursera Videos:
 
 ## Assignments
 
-Work on the assignments 'Program Flow - II' , 'Loops', and 'Data Types' on the Matlab Grader Site.
+Work on the assignments [Program Flow - II](https://grader.mathworks.com/courses/95582-scientific-computing-in-matlab-matlab-basics-spring-2023/assignments/258042-program-flow-ii) , [Loops](https://grader.mathworks.com/courses/95582-scientific-computing-in-matlab-matlab-basics-spring-2023/assignments/258047-loops), and [Data Types](https://grader.mathworks.com/courses/95582-scientific-computing-in-matlab-matlab-basics-spring-2023/assignments/258052-data-types) on the Matlab Grader Site.

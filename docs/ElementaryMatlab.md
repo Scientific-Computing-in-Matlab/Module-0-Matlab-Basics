@@ -31,4 +31,4 @@ Please note that just viewing or reading these materials is not going to be e
 
 ### Assignments
 
-The Assignment called 'Elementary Matlab' on the Matlab Grader Site has exercises for this module.
+The Assignment called [Elementary Matlab](https://grader.mathworks.com/courses/95582-scientific-computing-in-matlab-matlab-basics-spring-2023/assignments/258027-elementary-matlab) on the Matlab Grader Site has exercises for this module.
